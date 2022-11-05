@@ -3,3 +3,5 @@
 
 
 [Link to Challenge Site](https://curbal.com/25-days-of-dax-fridays-challenge-ed2-world-cup-data)
+## Questions
+![Questions](./Questions.png)
